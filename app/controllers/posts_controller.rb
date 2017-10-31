@@ -31,11 +31,7 @@ class PostsController < ApplicationController
   #   end
   # end
 
-  # def destroy
-  #   @post.destroy
-  #   flash[:alert] = "删除成功"
-  #   redirect_to group_posts_path
-  # end
+
 
   private
 
